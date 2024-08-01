@@ -4,4 +4,6 @@
 
 Перейдите по ссылке для выполнения первого задания - [Ссылка](https://github.com/kvinokain/DUP01/blob/main/1task.md)
 # Следующие задания по списку (Будут обновляться)
-![Задание 2](https://github.com/kvinokain/DUP01/blob/main/TASK2.md)
+Обычные задания:
+[Задание 2](https://github.com/kvinokain/DUP01/blob/main/TASK2.md)
+**[Учебная пратика!](https://github.com/kvinokain/DUP01/tree/main/Praktika)**
